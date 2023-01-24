@@ -1,3 +1,2 @@
 worker: python bot.py
-web:gunicorn 
-app:app
+web: play run --http.port=$PORT $PLAY_OPTS
