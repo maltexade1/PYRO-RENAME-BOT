@@ -15,7 +15,7 @@
 🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
-### DEPLOYEMENT SUPPORT
+### DEPLOYEMENT SUPPORT.
 
 <details><summary>Deploy To Railway</summary>
 <p>
